@@ -1,0 +1,21 @@
+{
+	"id": "382bbd08-c846-4caf-846b-2e1ab5e39485",
+	"values": [
+		{
+			"key": "idBook",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-10-06T18:53:08.184Z",
+	"_postman_exported_using": "Postman/9.31.3"
+}

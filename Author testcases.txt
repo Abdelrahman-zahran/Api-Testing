@@ -1,0 +1,56 @@
+API: GET /api/v1/Authors
+ Test Case 1: response should be 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+ 
+ Test Case 2: Objects inside response contain, id, idBook, firstName, lastName.
+ Expected Result: response contain, id, idBook, firstName, lastName
+ Actual Result: response contain, id, idBook, firstName, lastName
+ Status: Pass
+
+-----------------------------------------------------------------------------------
+
+API: POST /api/v1/Authors
+ Test Case 1: Register a new valid Author successfully and response code "201 Created".
+ Expected Result: 201 created
+ Actual Result: 200 OK
+ Status: Fail
+
+ Test Case 2: Verify that firstname & lastname should be mandatory by not adding first name and last name in body request
+ Expected Result: 400
+ Actual Result: 200 OK
+ Status: Fail
+
+
+--------------------------------------------------------------------------------
+
+API: GET /api/v1/Authors/authors/books/{idBook}
+ Test Case 1: Searching with valid idBook should return relative data in response body.
+ Expected Result: all returned results in response body contain valid idBook 
+ Actual Result: all returned results in response body contain valid idBook
+ Status: pass
+
+_______________________________________________________________________________
+
+API: GET /api/v1/Authors/{id}
+ Test Case 1: Searching with valid author id should return relative data in response body.
+ Expected Result: all returned results in response body contain valid author id 
+ Actual Result: all returned results in response body contain valid authorid
+ Status: pass
+
+________________________________________________________________________________
+
+API: PUT /api/v1/Authors/{id}
+ Test Case 1: Author's data is updated successfully.
+ Expected Result: first and last name will be changed successfully 
+ Actual Result: first and last name changed successfully 
+ Status: pass
+______________________________________________________________________________
+API: DELETE /api/v1/Authors/{id}
+ Test Case 1: Author's data will be deleted successfully.
+ Expected Result: Author's data will be deleted 
+ Actual Result: Author's data is deleted 
+ Status: pass
+
+
