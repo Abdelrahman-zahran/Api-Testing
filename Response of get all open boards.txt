@@ -1,0 +1,174 @@
+{
+    "id": "633f060570d37e009aee4767",
+    "aaId": "633f060288ed2ebef97ed27c",
+    "activityBlocked": false,
+    "avatarHash": "5ea6d7efc64c30202946a4872879fa80",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/633f060570d37e009aee4767/5ea6d7efc64c30202946a4872879fa80",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "Abdelrahman",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "A",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/azahran88888",
+    "username": "azahran88888",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "azahran88888@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "f7035c133e01c53ac421a78831c4971e",
+    "idBoards": [
+        "633f0ab39826a402870fc006",
+        "633f117e2477780d8e8b1486",
+        "633f118c5f9a5600e6bd0124",
+        "633f13cf9b8550016a8078b5",
+        "633f146414c1fc0060d87df5",
+        "633f1d8d83675a037c3a333d",
+        "633f1df7bfb93614bec4865b",
+        "63431edef00da8007e19d8a2",
+        "63431ee34d677004110defde",
+        "63432097b2493b01e5e67563"
+    ],
+    "idOrganizations": [
+        "633f0ab29826a402870fbfee",
+        "634320761146570296843317"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-10-06T16:46:10.044Z"
+    },
+    "messagesDismissed": [],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board",
+        "WorkspacesAutoNameAlert-633f0ab29826a402870fbfee"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "79",
+    "boards": [
+        {
+            "id": "633f0ab39826a402870fc006",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "63431edef00da8007e19d8a2",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "633f117e2477780d8e8b1486",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "633f146414c1fc0060d87df5",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "633f1d8d83675a037c3a333d",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "633f1df7bfb93614bec4865b",
+            "name": "Reporting",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "63432097b2493b01e5e67563",
+            "name": "board 1",
+            "closed": false,
+            "idOrganization": "634320761146570296843317",
+            "pinned": false
+        },
+        {
+            "id": "633f118c5f9a5600e6bd0124",
+            "name": "maintenance",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "63431ee34d677004110defde",
+            "name": "maintenance",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        },
+        {
+            "id": "633f13cf9b8550016a8078b5",
+            "name": "maintenance",
+            "closed": false,
+            "idOrganization": "633f0ab29826a402870fbfee",
+            "pinned": false
+        }
+    ]
+}
